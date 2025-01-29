@@ -1,0 +1,40 @@
+[
+  {"titulo": "Los Increibles", "año": 2010, "genero": "Animación", "poster": "https://cartelera.elpais.com/assets/uploads/2021/12/03030115/C_04220.jpg", "trailer": "https://www.youtube.com/watch?v=eMzejXYKT_Y"},
+  {"titulo": "The Garfield Movie", "año": 2024, "genero": "Animación", "poster": "https://cloudfront-us-east-1.images.arcpublishing.com/vanguardiaeluniversal/BSNRGY4XQVAW5O4W6R3542NWZA.jpg", "trailer": "https://www.youtube.com/watch?v=IeFWNtMo1Fs"},
+  {"titulo": "Del Reves 2", "año": 2024, "genero": "Animación", "poster": "https://www.ecartelera.com/carteles/18100/18190/002_m.jpg", "trailer": "https://www.youtube.com/watch?v=ahogVfXzqs4"},
+  {"titulo": "Monstruos S.A.", "año": 2001, "genero": "Animación", "poster": "https://cineciutat.org/storage/app/uploads/public/619/c0a/59d/thumb_2077_314_443_0_0_crop.jpg", "trailer": "https://www.youtube.com/watch?v=feRnlEHTCY0"},
+  
+  {"titulo": "Langosta", "año": 2018, "genero": "Romántica", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7ddTG8MFZ4_B4NDb2oSmzjnKmDHIfKjYYw&s", "trailer": "https://www.youtube.com/watch?v=fvpcpf40Upo"},
+  {"titulo": "Amor en su punto", "año": 2014, "genero": "Romántica", "poster": "https://cartelera.elpais.com/assets/uploads/2022/05/13030123/C_11517.jpg", "trailer": "https://www.youtube.com/watch?v=ymhgYOYApO0"},
+  {"titulo": "MiAmor Perdido", "año": 2019, "genero": "Romántica", "poster": "https://cartelera.elpais.com/assets/uploads/2018/12/14030254/C_19118.jpg", "trailer": "https://www.youtube.com/watch?v=gokpndth4Jk"},
+  {"titulo": "Una cuestion de tiempo", "año": 2014, "genero": "Romántica", "poster": "https://es.web.img3.acsta.net/pictures/210/237/21023712_20130731162831671.jpg", "trailer": "https://www.youtube.com/watch?v=5DQAZtFHLEA"},
+
+  {"titulo": "Padre y Soldado", "año": 2023, "genero": "Drama", "poster": "https://cartelera.elpais.com/assets/uploads/2023/06/02030148/C_25548.jpg", "trailer": "https://www.youtube.com/watch?v=3MzLtHmzU7M"},
+  {"titulo": "El profesor de esgrima", "año": 2024, "genero": "Drama", "poster": "https://circusa.com/wp-content/uploads/2025/01/p-elprofesordeesgrima.jpg", "trailer": "https://www.youtube.com/results?search_query=El+profesor+de+esgrima+trailer"},
+  {"titulo": "Durante la tormenta", "año": 2018, "genero": "Drama", "poster": "https://estaticos-cdn.prensaiberica.es/clip/81c50005-6318-4ebf-afaf-3ba686a0f65c_woman-libre-1200_default_0.jpg", "trailer": "https://www.youtube.com/watch?v=t2-79qK2Cio"},
+
+  {"titulo": "Avatar", "año": 2010, "genero": "Aventura", "poster": "https://hips.hearstapps.com/hmg-prod/images/avatar-66ca0a9027f05.jpg?crop=1xw:1xh;center,top&resize=980:*", "trailer": "https://www.youtube.com/results?search_query=Avatar+trailer"},
+  {"titulo": "Las Aventuras de Tintin", "año": 2012, "genero": "Aventura", "poster": "https://hips.hearstapps.com/hmg-prod/images/las-aventuras-de-tintin-el-secreto-del-unicornio-66ca0a888dc8a.jpg?crop=1xw:1xh;center,top&resize=980:*", "trailer": "https://www.youtube.com/watch?v=AOBlXnJRVC0"},
+  {"titulo": "Narnia", "año": 2018, "genero": "Aventura", "poster": "https://hips.hearstapps.com/hmg-prod/images/las-cronicas-de-narnia-66ca0a8ab3845.jpg?crop=1xw:1xh;center,top&resize=980:*", "trailer": "https://www.youtube.com/watch?v=XFQwHiEdJdQ"},
+  {"titulo": "El Señor de los Anillos: La Comunidad del Anillo", "año": 2010, "genero": "Aventura", "poster": "https://hips.hearstapps.com/hmg-prod/images/el-senor-de-los-anillos-la-comunidad-del-anillo-66ca0a8662a4f.jpg?crop=1xw:1xh;center,top&resize=980:*", "trailer": "https://www.youtube.com/watch?v=iFOucwxKRFE"},
+
+  {"titulo": "Asesinato en el orient express", "año": 2018, "genero": "Crimen", "poster": "https://decine21.com/img/upload/obras/asesinato-en-el-orient-express-34701/asesinato-en-el-orient-express-34701-c.jpg", "trailer": "https://www.youtube.com/watch?v=SybwNNvIuzo"},
+  {"titulo": "El Padrino", "año": 1994, "genero": "Crimen", "poster": "https://es.web.img3.acsta.net/c_310_420/pictures/18/06/12/12/12/0117051.jpg?coixp=49&coiyp=27", "trailer": "https://www.youtube.com/watch?v=iOyQx7MXaz0"},
+  {"titulo": "Criminales en el Mar", "año": 2020, "genero": "Crimen", "poster": "https://pics.filmaffinity.com/Criminales_en_el_mar-447205545-large.jpg", "trailer": "https://www.youtube.com/watch?v=qn14qE7xCh4"},
+
+  {"titulo": "La Pell Freda", "año": 2018, "genero": "Suspenso", "poster": "https://cartelera.elpais.com/assets/uploads/2018/11/12124202/C_16872.jpg", "trailer": "https://www.youtube.com/watch?v=fSci_XrecYA"},
+  {"titulo": "No respires", "año": 2017, "genero": "Suspenso", "poster": "https://cartelera.elpais.com/assets/uploads/2021/10/01030131/C_15550.jpg", "trailer": "https://www.youtube.com/watch?v=mvEetUDCKxE"},
+  {"titulo": "Háblame", "año": 2023, "genero": "Suspenso", "poster": "https://hips.hearstapps.com/hmg-prod/images/gutvzwykz3lx3cd0ujcy75napm9-670fdcf8bf0f4.jpg?crop=1xw:1xh;center,top&resize=980:*", "trailer": "https://www.youtube.com/watch?v=kMOk2xrbuOo"},
+  {"titulo": "La Maldición de Lake Manor", "año": 2020, "genero": "Suspenso", "poster": "https://cartelera.elpais.com/assets/uploads/2021/01/22030142/C_23388.jpg", "trailer": "https://www.youtube.com/watch?v=7TpVHcnnxSQ"},
+
+  {"titulo": "Miss Peregrine's", "año": 2017, "genero": "Fantasía", "poster": "https://www.viuvalencia.com/netpublisher/minfo/imagenes/9847_215856.jpg", "trailer": "https://www.youtube.com/watch?v=6WgCZWiCkOg"},
+  {"titulo": "Wicked", "año": 2023, "genero": "Fantasía", "poster": "https://cdn.kobo.com/book-images/42147dea-8a63-4149-88b0-0872437a2900/353/569/90/False/wicked-4.jpg", "trailer": "https://www.youtube.com/watch?v=6COmYeLsz4c"},
+
+  {"titulo": "Verbo", "año": 2011, "genero": "Ciencia Ficción", "poster": "https://cartelera.elpais.com/assets/uploads/2022/09/02030127/C_07223.jpg", "trailer": "https://www.youtube.com/watch?v=VT4OYZgcl2A"},
+  {"titulo": "Gladiator", "año": 2000, "genero": "Acción", "poster": "https://pics.filmaffinity.com/Gladiator-368149580-large.jpg", "trailer": "https://www.youtube.com/embed/P5ieIbInFpg?si=_Zhy-dkzOv0BosQW?autoplay=1"},
+  {"titulo": "Star Wars", "año": 1977, "genero": "Ciencia Ficción", "poster": "https://hips.hearstapps.com/hmg-prod/images/el-despertar-de-la-fuerza-1575448990.jpg?crop=1xw:1xh;center,top&resize=980:*", "trailer": "https://www.youtube.com/watch?v=sGbxmsDFVnE"},
+  {"titulo": "El Apagón", "año": 2022, "genero": "Ciencia Ficción", "poster": "https://images-2.rakuten.tv/storage/global-movie/translation/artwork/82bffc07-2558-4e5f-b1ef-6650a2d9156f-width317-quality60.jpeg", "trailer": "https://www.youtube.com/watch?v=tL-DlM8USCY"},
+  {"titulo": "Mad fury road max", "año": 2017, "genero": "Ciencia Ficción", "poster": "https://www.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/06/20-cine-ciencia-ficcion-8.jpg", "trailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8"},
+  {"titulo": "Avengers: Infinity War", "año": 2019, "genero": "Acción", "poster": "https://m.media-amazon.com/images/M/MV5BOGVkODYxMDEtODczZC00MjRiLTg3ZWYtZjgzN2QyMDBjZTUzXkEyXkFqcGc@._V1_.jpg", "trailer": "https://www.youtube.com/watch?v=QwievZ1Tx-8"}
+  
+]
